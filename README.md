@@ -1,2 +1,2 @@
-# OIC-NextToYou
-คปภ. เคียงข้าง
+# Project template
+so I don't need to re-create things from scratch
