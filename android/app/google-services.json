@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "59841085798",
+    "project_id": "oic-next-to-you-dev",
+    "storage_bucket": "oic-next-to-you-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59841085798:android:9f3717b1c94f1a08fc88a7",
+        "android_client_info": {
+          "package_name": "th.or.oic.nexttoyou.oic_next_to_you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59841085798-56j9mfadq2kiq9o0us0oirsije4u5hs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EJ_O5X9Yfoo8aYZUpVqc8OrkZeALCUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59841085798-56j9mfadq2kiq9o0us0oirsije4u5hs6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59841085798-7oa5obvho6mg3165tfe941ol81haqkma.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "th.or.oic.nexttoyou.oicNextToYou"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
